@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Yiling Zhu'
 description: 'This is my new website'
 permalink: pretty
-logo: " "
+logo: "/assets/image/logo.jpg"
 
 # Pagination
 paginate: 5
