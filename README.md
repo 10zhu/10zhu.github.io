@@ -8,4 +8,4 @@ or
 
 **[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
  -->
- Yiling's personal webpage. Adopted from the Alembic template.
+ Yiling's personal webpage. Adopted from the [Alembic template](https://alembic.darn.es/).
